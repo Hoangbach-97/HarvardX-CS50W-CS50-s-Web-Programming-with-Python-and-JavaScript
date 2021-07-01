@@ -1,0 +1,20 @@
+$colorfont: #4400ff;
+%check{
+    font: size 20px;
+    background-color: springgreen;
+    width: 50%;
+    height: 50px;
+
+}
+
+h2{
+    @extend %check;
+    color: pink;
+}
+h3{
+    @extend %check;
+    color: #234563;
+}
+h1{
+    color: $colorfont;
+}

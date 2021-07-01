@@ -1,0 +1,16 @@
+h2, h3 {
+  font: size 20px;
+  background-color: springgreen;
+  width: 50%;
+  height: 50px; }
+
+h2 {
+  color: pink; }
+
+h3 {
+  color: #234563; }
+
+h1 {
+  color: #4400ff; }
+
+/*# sourceMappingURL=style.css.map */
